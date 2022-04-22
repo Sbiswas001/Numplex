@@ -1,3 +1,4 @@
+package com.sbiswas001.numplex;
 
 public class Functions {
     public static int factorial(int a) {

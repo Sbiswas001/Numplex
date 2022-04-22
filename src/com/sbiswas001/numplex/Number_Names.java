@@ -1,3 +1,5 @@
+package com.sbiswas001.numplex;
+
 public class Number_Names {
     public static boolean tech_check(int n) {
         int num, firstHalf, secondHalf, digits = 0, squareOfSum;
